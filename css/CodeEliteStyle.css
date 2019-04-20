@@ -1,0 +1,18 @@
+*{
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{padding: 0;margin: 0;}
+h1,h2,h3,h4,h5,h6,p,span,a{font-family: 'Tajawal', sans-serif;}
+/*red color: #EC1C23*/
+/*blue color: #08526D*/
+
+.desc{text-align: center;margin: 40px;font-weight: bold;opacity: .6}
+.data{margin-bottom: 18px;border: none}
+.photo{overflow: hidden;background-image: url("../css/ph2.jpg");width: 100%;
+height: 600px;
+background-position: center center;
+background-size: 100% 100%;
+}
