@@ -1,2 +1,2 @@
 # UVA-API-Application
-- This is a  UVA API Application to get submissions of a given user name using UVA API
+- UVA App that consumes UVA API to get submissions of a given username using UVA API.
